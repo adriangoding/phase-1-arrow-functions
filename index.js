@@ -1,3 +1,4 @@
+//
 const divide = (parameter, parameter2) => parameter / parameter2;
 divide(2000,100);
 
